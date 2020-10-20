@@ -12,3 +12,26 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+header {
+    display: flex;
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a {
+    color: white;
+}
+
+nav ul {display: flex;}
+nav ul li {margin-right: 10px;}
+
+.avatar {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
