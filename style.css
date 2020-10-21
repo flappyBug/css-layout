@@ -67,3 +67,10 @@ main section {
 .content {
     margin: 20px;
 }
+
+footer {
+    background-color: #a9a9a9;
+    font-size: small;
+    text-align: center;
+    padding: 20px;
+}
